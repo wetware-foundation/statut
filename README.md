@@ -1,0 +1,2 @@
+# statut
+Statut organizacji
